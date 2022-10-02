@@ -1,4 +1,4 @@
-# finding rising stars through hot topics detection
+# finding rising stars through hot topics detection (Implementation in Python)
 
 -> Different Data Science/Data Mining Algorithms Implementation in MS Computer Science using Python Language<br />
 -> Research paper implementation in python<br />
